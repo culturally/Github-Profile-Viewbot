@@ -5,4 +5,5 @@ Github profile viewbot to increase your views
 2. pip install aiohttp/asyncio/requests/colorama
 3. input your username
 ## Info
-Works with https://gpvc.arturio.dev but feel free to change the url
+Works with https://gpvc.arturio.dev but feel free to change the url.
+## I am not responsible for your actions!
